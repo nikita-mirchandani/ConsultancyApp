@@ -2,7 +2,7 @@
 --> Internship project at Sannibh Technology vadodara 
 
 ### About
-<pre><b>Purpose :</b> </pre>
+<b>Purpose :</b>
 This project is an application developed using Android and PHP. The main reason of existence for this application is to provide an admin panel for the consultancy app.
 <br><br>
 
@@ -16,7 +16,7 @@ This application was developed for the company to monitor and edit the employee'
 The main aim of the application is to provide the company personnel to manage the employee's data and the leads of the partners and branch giving 	the admin to control and monitor their activities and accepting or rejecting 	the partners and branch.<br><br>
 
 
-<b>App Specifications :</b> 
+### App Specifications 
 <pre>
 •	Splash screen
 •	Sign Up and Login (forgot password and remember option)
@@ -32,9 +32,15 @@ The main aim of the application is to provide the company personnel to manage th
 
 ### Implementation 
 <br>
+
 <br>
-<img src="https://github.com/nikita-mirchandani/iSkill-Website/blob/main/iskill-images/iskill_home.jpeg"
-width="800px">
+<img src="https://github.com/nikita-mirchandani/ConsultancyApp/blob/main/images/Login-1st%20screen.png"
+width="200px">
+<br>
+
+<br>
+<img src="https://github.com/nikita-mirchandani/ConsultancyApp/blob/main/images/Dashboard-2nd%20screen.png"
+width="200px">
 <br>
 <br>
 
