@@ -35,12 +35,10 @@ The main aim of the application is to provide the company personnel to manage th
 <pre>
 <br>
 <img src="https://github.com/nikita-mirchandani/ConsultancyApp/blob/main/images/Login-1st%20screen.png"
-width="200px">
-<br>
+width="300px">
 
-<br>
 <img src="https://github.com/nikita-mirchandani/ConsultancyApp/blob/main/images/Dashboard-2nd%20screen.png"
-width="200px">
+width="300px">
 <br>
 <br>
 </pre>
