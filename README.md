@@ -32,22 +32,61 @@ The main aim of the application is to provide the company personnel to manage th
 
 ### Implementation 
 <br>
-<p style="background-color:#1c87c9;">
 <br>
 <img src="https://github.com/nikita-mirchandani/ConsultancyApp/blob/main/images/Login-1st%20screen.png"
 width="300px">
-
+<br>
 <img src="https://github.com/nikita-mirchandani/ConsultancyApp/blob/main/images/Dashboard-2nd%20screen.png"
 width="300px">
 <br>
+<img src="https://github.com/nikita-mirchandani/ConsultancyApp/blob/main/images/Branch-3rd%20screen.png"
+width="300px"> 
 <br>
-</p>
-
-
-
+<img src="https://github.com/nikita-mirchandani/ConsultancyApp/blob/main/images/Employee-4rth%20screen.png"
+width="300px"> 
+<br>
+<img src="https://github.com/nikita-mirchandani/ConsultancyApp/blob/main/images/Edit%20Profile-5th%20screen.png"
+width="300px"> 
+<br>
+<img src="https://github.com/nikita-mirchandani/ConsultancyApp/blob/main/images/Reset%20password-6th%20screen.png"
+width="300px"> 
+<br>
+<img src="https://github.com/nikita-mirchandani/ConsultancyApp/blob/main/images/Delete%20Employee-7th%20screen.png"
+width="300px"> 
+<br>
+<img src="https://github.com/nikita-mirchandani/ConsultancyApp/blob/main/images/Delete%20Employee-8th%20screen.png"
+width="300px"> 
+<br>
+<img src="https://github.com/nikita-mirchandani/ConsultancyApp/blob/main/images/Employee-Leads%209th%20screen.png"
+width="300px"> 
+<br>
+<img src="https://github.com/nikita-mirchandani/ConsultancyApp/blob/main/images/Partner-10th%20screen.png"
+width="300px"> 
+<br>
+<img src="https://github.com/nikita-mirchandani/ConsultancyApp/blob/main/images/add%20new%20Employee%20-%2011th%20screen.png"
+width="300px"> 
+<br>
+<img src="https://github.com/nikita-mirchandani/ConsultancyApp/blob/main/images/add%20new%20Employee%20-%2012th%20screen.png"
+width="300px"> 
+<br>
+<img src="https://github.com/nikita-mirchandani/ConsultancyApp/blob/main/images/Edit%20employee%20-%2013th%20screen.png"
+width="300px"> 
+<br>
+<img src="https://github.com/nikita-mirchandani/ConsultancyApp/blob/main/images/calender%20-%2014th%20screen.png"
+width="300px"> 
+<br>
+<img src="https://github.com/nikita-mirchandani/ConsultancyApp/blob/main/images/emp%20details%20-15th%20screen.png"
+width="300px"> 
+<br>
+<img src="https://github.com/nikita-mirchandani/ConsultancyApp/blob/main/images/Client%20leads%20-%2016th%20screen.png"
+width="300px"> 
+<br>
+<br>
 ### Demo:
 <ins>https://consultancyapp.000webhostapp.com/</ins>(hosted)
  <br><br>
  SRS document :
  https://github.com/nikita-mirchandani/ConsultancyApp/blob/main/19ce076_internship_report.pdf
+ 
+ <br><br>Video Link : 
  
