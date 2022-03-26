@@ -2,19 +2,19 @@
 --> Internship project at Sannibh Technology vadodara 
 
 ### About
+<br><br>
 <b>Purpose :</b> 
-<pre>
 This project is an application developed using Android and PHP. The main reason of existence for this application is to provide an admin panel for the consultancy app.
-</pre>
+<br><br>
 
 <b>Overview of project :</b> 
-<pre>Looking from a broad perspective, this project is useful for the company for very efficient and hassle-free management of their employees and their individual partners and branches. It basically provides a vast variety of statistical data pertaining to leads that have been brought in by partners/branches / employees</pre>
+Looking from a broad perspective, this project is useful for the company for very efficient and hassle-free management of their employees and their individual partners and branches. It basically provides a vast variety of statistical data pertaining to leads that have been brought in by partners/branches / employees<br><br>
 
 <b>Objective :</b> 
-<pre>This application was developed for the company to monitor and edit the employee's data, the employees can manage company partners and branches and also add, view leads respectively. The leads are from fields including education, training, insurance, loan and HR.</pre>
-
+This application was developed for the company to monitor and edit the employee's data, the employees can manage company partners and branches and also add, view leads respectively. The leads are from fields including education, training, insurance, loan and HR.
+<br><br>
 <b>Scope :</b> 
-<pre>The main aim of the application is to provide the company personnel to manage the employee's data and the leads of the partners and branch giving 	the admin to control and monitor their activities and accepting or rejecting 	the partners and branch.</pre>
+The main aim of the application is to provide the company personnel to manage the employee's data and the leads of the partners and branch giving 	the admin to control and monitor their activities and accepting or rejecting 	the partners and branch.<br><br>
 
 
 <b>App Specifications :</b> 
@@ -43,10 +43,7 @@ width="800px">
 
 ### Demo:
 <ins>https://consultancyapp.000webhostapp.com/</ins>(hosted)
-<br> 
-<br> 
- 
  <br><br>
  SRS document :
- https://github.com/nikita-mirchandani/iSkill-Website/blob/main/iskill-Website_srs.pdf
+ https://github.com/nikita-mirchandani/ConsultancyApp/blob/main/19ce076_internship_report.pdf
  
