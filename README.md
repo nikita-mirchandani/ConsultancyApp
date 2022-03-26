@@ -85,8 +85,7 @@ width="300px">
 <br>
 ### Demo:
 <ins>https://consultancyapp.000webhostapp.com/</ins>(hosted)
- <br><br>
- SRS document :
- https://github.com/nikita-mirchandani/ConsultancyApp/blob/main/19ce076_internship_report.pdf
- <br>Video Link : 
- 
+<br><br>
+SRS document :
+https://github.com/nikita-mirchandani/ConsultancyApp/blob/main/19ce076_internship_report.pdf
+
