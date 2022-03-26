@@ -1,5 +1,6 @@
 # ConsultancyApp
---> Internship project at Sannibh Technology vadodara 
+**Internship project at Sannibh Technology (vadodara).This project is an application developed using Android and PHP. The main reason of existence for this application is to provide an admin panel for the consultancy app.
+
 
 ### About
 <b>Purpose :</b>
@@ -87,6 +88,5 @@ width="300px">
  <br><br>
  SRS document :
  https://github.com/nikita-mirchandani/ConsultancyApp/blob/main/19ce076_internship_report.pdf
- 
- <br><br>Video Link : 
+ <br>Video Link : 
  
