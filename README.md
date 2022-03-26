@@ -2,8 +2,7 @@
 --> Internship project at Sannibh Technology vadodara 
 
 ### About
-<br><br>
-<b>Purpose :</b> 
+<pre><b>Purpose :</b> </pre>
 This project is an application developed using Android and PHP. The main reason of existence for this application is to provide an admin panel for the consultancy app.
 <br><br>
 
