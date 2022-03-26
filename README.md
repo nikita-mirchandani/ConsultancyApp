@@ -32,7 +32,7 @@ The main aim of the application is to provide the company personnel to manage th
 
 ### Implementation 
 <br>
-<pre>
+<p style="background-color:#1c87c9;">
 <br>
 <img src="https://github.com/nikita-mirchandani/ConsultancyApp/blob/main/images/Login-1st%20screen.png"
 width="300px">
@@ -41,7 +41,7 @@ width="300px">
 width="300px">
 <br>
 <br>
-</pre>
+</p>
 
 
 
